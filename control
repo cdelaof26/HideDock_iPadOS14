@@ -1,0 +1,10 @@
+Package: wholesomethoughts26
+Name: HideDock_iPadOS14
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide your dock on your iPad
+Maintainer: wholesomethoughts26
+Author: wholesomethoughts26
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Pre-Depends: firmware (>=14.0)
